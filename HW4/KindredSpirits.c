@@ -1,5 +1,4 @@
-// Anthony Pionessa
-// an089926
+
 
 #include <stdio.h>
 #include <stdlib.h>
